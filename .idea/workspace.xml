@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ab9328-a4d2-4070-aec9-1abc384ddea8" name="Changes" comment="Bootstrao Style">
+    <list default="true" id="d6ab9328-a4d2-4070-aec9-1abc384ddea8" name="Changes" comment="Getting the User Data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716834204835</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Getting the User Data">
+      <option name="closed" value="true" />
+      <created>1717002454572</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717002454572</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +148,7 @@
     <MESSAGE value="Build the Form" />
     <MESSAGE value="fixup! Connecting the Phyton Backedn to the HTML Part" />
     <MESSAGE value="Bootstrao Style" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bootstrao Style" />
+    <MESSAGE value="Getting the User Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting the User Data" />
   </component>
 </project>
